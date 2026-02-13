@@ -1,8 +1,8 @@
-# 🏍️ Agência de viagens - Landing Page
+# 🧳🛫✈️ Agência de viagens - Landing Page
 
 
 <p> 
-  <img src="Layout_viagens.pdf" alt="Preview do Projeto Agência" width="100%">
+  <img src="../Agencia_viagem/img/layout.png" alt="Preview do Projeto Agência" width="100%">
 </p>
 
 ## 💻 Sobre o Projeto
